@@ -27,7 +27,8 @@ defmodule Inflex.Pluralize do
     "swine",
     "tights",
     "tongs",
-    "trousers"
+    "trousers",
+    "staff"
   ]
 
   @irregular [
